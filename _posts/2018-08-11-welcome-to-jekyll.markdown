@@ -17,10 +17,6 @@ void test() {
 }
 {% endhighlight %}
 
-<!-- ![My helpful screenshot]({{ "/assets/test.png" | absolute_url }}) -->
-
-![]({{"/assets/test.png"}})
-
 $$
 \begin{align*}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
