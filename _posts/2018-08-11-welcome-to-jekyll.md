@@ -4,6 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2018-08-11 21:05:33 +0700
 categories: jekyll update
 use_math: true
+published: false
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -12,8 +13,10 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 Jekyll also offers powerful support for code snippets:
 
 {% highlight java %}
-void test() {
-	
+class A {
+  public void test() {
+  	
+  }
 }
 {% endhighlight %}
 

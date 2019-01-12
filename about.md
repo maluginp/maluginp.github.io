@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is **Platon Malyugin** and I'm Android developer at [Dejavoo Systems][current-work], I mainly focus on developing Register (POS) solutions and I am instrested in Payment Systems, Payment Terminals and etc. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Feel free to contact me by using twitter, github accounts.
 
 
-[jekyll-organization]: https://github.com/jekyll
+[current-work]: http://www.dejavoosystems.com/
