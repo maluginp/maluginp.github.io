@@ -3,6 +3,4 @@ title: Welcome to my blog
 layout: post
 ---
 
-It's my first post and I want to tell you welcome, I am only started my public actions and this post don't contain useful information.
-
-I mainly will be focused on Android and related with Android themes.
+It's empty post. Wait posts about Android, internal of AOSP and etc. 
